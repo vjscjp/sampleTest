@@ -1,3 +1,6 @@
 Welcome to git
 
 added from git
+
+
+New update text to git from CMD
