@@ -1,38 +1,4 @@
-## Environments
-```
-```
-##### Environments Create
-```
-```
-##### Environments Delete
-```
-```
-##### Environments Get
-```
-```
-##### Environments GetAll
-```
-```
-##### Environments Set
-```
-```
-## Environments
-```
-```
-##### Environments Create
-```
-```
-##### Environments Delete
-```
-```
-##### Environments Get
-```
-```
-##### Environments GetAll
-```
-```
-##### Environments Set
-```
+
 ```
 ## Environments
 ```
