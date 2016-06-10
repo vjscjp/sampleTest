@@ -1,29 +1,4 @@
-## BuildPack
-```
-```
-##### BuildPack Get
-```
-```
-##### BuildPack GetAll
-```
-```
-##### BuildPack Set
-```
-```
-## BuildPack
-```
-```
-##### BuildPack Get
-```
-```
-##### BuildPack GetAll
-```
-```
-##### BuildPack Set
-```
-```
-## BuildPack
-```
+
 BuildPacks - Language or framework base container for developing a service
 
 Commands available for BuildPacks:
