@@ -1,33 +1,4 @@
-## Releases
-```
-```
-##### Releases Create
-```
-```
-##### Releases Get
-```
-```
-##### Releases GetAll
-```
-```
-##### Releases Set
-```
-```
-## Releases
-```
-```
-##### Releases Create
-```
-```
-##### Releases Get
-```
-```
-##### Releases GetAll
-```
-```
-##### Releases Set
-```
-```
+
 ## Releases
 ```
 Releases - Manage releases (service deployment snapshots)
