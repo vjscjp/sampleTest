@@ -1,33 +1,4 @@
-## Builds
-```
-```
-##### Builds Deploy
-```
-```
-##### Builds Get
-```
-```
-##### Builds GetLogs
-```
-```
-##### Builds Set
-```
-```
-## Builds
-```
-```
-##### Builds Deploy
-```
-```
-##### Builds Get
-```
-```
-##### Builds GetLogs
-```
-```
-##### Builds Set
-```
-```
+
 ## Builds
 ```
 Builds - Build status and logs for service
