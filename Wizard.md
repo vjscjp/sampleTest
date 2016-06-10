@@ -1,25 +1,4 @@
-## Wizard
-```
-```
-##### Wizard Curr
-```
-```
-##### Wizard List
-```
-```
-##### Wizard Next
-```
-```
-##### Wizard Prev
-```
-```
-##### Wizard Quit
-```
-```
-##### Wizard Start
-```
-```
-## Wizard
+
 ```
 Wizards - Interactive execution of a Shipped workflow
 -----------------------------------------------------
