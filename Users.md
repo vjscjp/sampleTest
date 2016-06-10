@@ -1,12 +1,4 @@
-## Users
-```
-```
-##### Users Get
-```
-```
-##### Users Remove
-```
-```
+
 ## Users
 ```
 Users - Manage project users
