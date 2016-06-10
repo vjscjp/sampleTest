@@ -1,32 +1,4 @@
-## Services
-```
-```
-##### Services Check
-```
-```
-##### Services Create
-```
-```
-##### Services Delete
-```
-```
-##### Services Get
-```
-```
-##### Services GetAll
-```
-```
-##### Services Repair
-```
-```
-##### Services Set
-```
-```
-##### Services Update
-```
-```
-## Services
-```
+
 ## Services
 ```
 Services - Manage services (independently deployable components of a project)
